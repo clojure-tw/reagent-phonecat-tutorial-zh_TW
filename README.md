@@ -87,18 +87,6 @@ Reagent PhoneCat 教學
     </tr> 
 </table>
 
-
-版權聲明
-=======
-
-本翻譯將採用 CC0 授權 (?)
-
-
-討論
-======
-
-若您對於此項專案有任何建議，歡迎到 ClojureTW 的 Telegram 群組討論，您可以在 https://clojure.tw 找到 telegram 的邀請連結。
-
 目錄
 ======
 
@@ -117,4 +105,15 @@ Reagent PhoneCat 教學
 - [Step 11 - 透過 core.async 進行非同步與錯誤機制](https://github.com/clojure-tw/reagent-phonecat-tutorial-zh_TW/blob/master/step-11.md)
 - [Step 12 - consuming JavaScript components](https://github.com/clojure-tw/reagent-phonecat-tutorial-zh_TW/blob/master/step-12.md)
 
+
+版權聲明
+=======
+
+本翻譯將採用 CC0 授權 (?)
+
+
+討論
+======
+
+若您對於此項專案有任何建議，歡迎到 ClojureTW 的 Telegram 群組討論，您可以在 https://clojure.tw 找到 telegram 的邀請連結。
 
