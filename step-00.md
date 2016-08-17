@@ -6,7 +6,7 @@
 
 ## 啓始開發環境
 
-我們將使用 Reagent 來開始此步驟。
+在這裡只會用到一點點 Reagent。
 
 執行以下命令：
 
@@ -14,7 +14,7 @@
 git checkout step-0
 ```
 
-再以以下命令開啓本地伺服器：
+現在開啓本地伺服器，執行：
 
 ```
 lein figwheel
@@ -41,14 +41,14 @@ cljs.user=>
 (println "Can you read me?")
 ```
 
-回到瀏覽器打開主控台，你將會看到訊息出現。
+回到瀏覽器打開主控台，你應該會看到訊息出現。
 
 ## 源碼概觀
 
 爲了提供可生產的開發環境，專案剛建立後會包含大量的東西，這些並不需要全部都瞭解。以下快速導覽有意義的檔案：
 
- * `project.clj`：專案的設定集中在這個檔案，包含了相依管理，環境，profiles，建置流程等等。在這裡，只對相依管理有所着墨。在 `:dependencies` 子句中可以看到相依管理的設定，之中有可以設定網頁伺服器的函式庫與一些前端的相依設定 (BootStrap CSS 函式庫，React JavaScript 函式庫以及 Reagent 這個 ClojureScript 函式庫)。
- * `resources/public/index.html`：這個網頁檔案會被我們的應用程式載入，由於應用程式中所有的畫面，會以使用 JavaScript 來操作 DOM 的方式動態建立，所以這個檔案只載入腳本與樣式表。
+ * `project.clj`：專案的設定集中在這個檔案，包含了相依管理，環境，profiles，建置流程等等。在這裡，只對相依管理有所着墨。在 `:dependencies` 子句中可以看到相依管理的設定，之中有可以設定網頁伺服器的函式庫與一些前端函式庫 (BootStrap CSS 函式庫，React JavaScript 函式庫以及 Reagent 這個 ClojureScript 函式庫)。
+ * `resources/public/index.html`：這個網頁檔案會被我們的應用程式載入，由於應用程式中所有的畫面，會以使用 JavaScript 操作 DOM 的方式動態建立，所以這個檔案只載入腳本與樣式表。
  * `src/cljs/reagent_phonecat/core.cljs`：這是我們的 ClojureScript 原始碼檔案，之後的教學將會在這個檔案中寫些程式。接下來讓我們再看仔細。
 
 在 `core.cljs` 的檔案末尾可以看到 `init!` 的函式定義：
