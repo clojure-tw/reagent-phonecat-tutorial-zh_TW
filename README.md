@@ -23,9 +23,18 @@ Reagent PhoneCat 教學
         <td>翻譯者 Github</td>
     </tr>
     <tr>
-        <td>step-00.md</td>
+        <td>intro.md</td>
         <td><a href="https://coldnew.github.io">coldnew's blog</a></td>
         <td><a href="https://github.com/coldnew">coldnew</a></td>
+        <td></td>
+        <td>step-06.md</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>step-00.md</td>
+        <td></td>
+        <td></td>
         <td></td>
         <td>step-07.md</td>
         <td></td>
@@ -39,7 +48,7 @@ Reagent PhoneCat 教學
         <td>step-08.md</td>
         <td></td>
         <td></td>
-    </tr>
+    </tr> 
     <tr>
         <td>step-02.md</td>
         <td></td>
@@ -48,7 +57,7 @@ Reagent PhoneCat 教學
         <td>step-09.md</td>
         <td></td>
         <td></td>
-    </tr> 
+    </tr>
     <tr>
         <td>step-03.md</td>
         <td></td>
@@ -57,7 +66,7 @@ Reagent PhoneCat 教學
         <td>step-10.md</td>
         <td></td>
         <td></td>
-    </tr>
+    </tr> 
     <tr>
         <td>step-04.md</td>
         <td></td>
@@ -66,18 +75,13 @@ Reagent PhoneCat 教學
         <td>step-11.md</td>
         <td></td>
         <td></td>
-    </tr> 
+    </tr>
     <tr>
         <td>step-05.md</td>
         <td></td>
         <td></td>
         <td></td>
         <td>step-12.md</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>step-06.md</td>
         <td></td>
         <td></td>
     </tr> 
