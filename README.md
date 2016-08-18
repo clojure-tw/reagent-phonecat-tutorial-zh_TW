@@ -15,74 +15,58 @@ Reagent PhoneCat 教學
 <table width="100%">
     <tr>
         <td>章節</td>
-        <td>翻譯者 Blog</td>
         <td>翻譯者 Github</td>
         <td></td>
         <td>章節</td>
-        <td>翻譯者 Blog</td>
         <td>翻譯者 Github</td>
     </tr>
     <tr>
         <td>intro.md</td>
-        <td><a href="https://coldnew.github.io">coldnew's blog</a></td>
         <td><a href="https://github.com/coldnew">coldnew</a></td>
         <td></td>
         <td>step-06.md</td>
-        <td></td>
-        <td></td>
+        <td><a href="https://github.com/cataska">cataska</a></td>
     </tr>
     <tr>
         <td>step-00.md</td>
-        <td></td>
         <td><a href="https://github.com/cataska">cataska</a></td>
         <td></td>
         <td>step-07.md</td>
-        <td></td>
-        <td></td>
+        <td><a href="https://github.com/cataska">cataska</a></td>
     </tr>
     <tr>
         <td>step-01.md</td>
         <td></td>
         <td></td>
-        <td></td>
         <td>step-08.md</td>
-        <td></td>
         <td></td>
     </tr> 
     <tr>
         <td>step-02.md</td>
         <td></td>
         <td></td>
-        <td></td>
         <td>step-09.md</td>
-        <td></td>
         <td></td>
     </tr>
     <tr>
         <td>step-03.md</td>
         <td></td>
         <td></td>
-        <td></td>
         <td>step-10.md</td>
-        <td></td>
         <td></td>
     </tr> 
     <tr>
         <td>step-04.md</td>
         <td></td>
         <td></td>
-        <td></td>
         <td>step-11.md</td>
-        <td></td>
         <td></td>
     </tr>
     <tr>
         <td>step-05.md</td>
-        <td></td>
-        <td></td>
+        <td><a href="https://github.com/cataska">cataska</a></td>
         <td></td>
         <td>step-12.md</td>
-        <td></td>
         <td></td>
     </tr> 
 </table>
