@@ -79,4 +79,4 @@ Reagent 沒有 AJAX 相關的功能（好事一件，view library 不應在此�
 
 學到使用 `cljs-ajax` 並實際用到 AJAX。
 
-**[下一步](https://github.com/clojure-tw/reagent-phonecat-tutorial-zh_TW/blob/master/step-06.md)**.
+**[下一步](https://github.com/clojure-tw/reagent-phonecat-tutorial-zh_TW/blob/master/step-06.md)**
