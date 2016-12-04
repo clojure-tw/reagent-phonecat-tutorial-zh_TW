@@ -39,21 +39,21 @@ Reagent PhoneCat 教學
         <td><a href="https://github.com/coldnew">coldnew</a></td>
         <td></td>
         <td>step-08.md</td>
-        <td><a href="https://github.com/rcwangtw">rcwangtw</a></td>
+        <td><a href="https://github.com/fatfingererr">fatfingererr</a></td>
     </tr> 
     <tr>
         <td>step-02.md</td>
-        <td></td>
+        <td><a href="https://github.com/fatfingererr">fatfingererr</a></td>
         <td></td>
         <td>step-09.md</td>
-        <td><a href="https://github.com/rcwangtw">rcwangtw</a></td>
+        <td><a href="https://github.com/fatfingererr">fatfingererr</a></td>
     </tr>
     <tr>
         <td>step-03.md</td>
         <td></td>
         <td></td>
         <td>step-10.md</td>
-        <td><a href="https://github.com/rcwangtw">rcwangtw</a></td>
+        <td><a href="https://github.com/fatfingererr">fatfingererr</a></td>
     </tr> 
     <tr>
         <td>step-04.md</td>
@@ -77,7 +77,7 @@ Reagent PhoneCat 教學
 - [前言](https://github.com/clojure-tw/reagent-phonecat-tutorial-zh_TW/blob/master/intro.md)
 - [Step 00 - 基本的 app 建立](https://github.com/clojure-tw/reagent-phonecat-tutorial-zh_TW/blob/master/step-00.md)
 - [Step 01 - 顯示靜態內容](https://github.com/clojure-tw/reagent-phonecat-tutorial-zh_TW/blob/master/step-01.md)
-- [Step 02 - Presenting data with components](https://github.com/clojure-tw/reagent-phonecat-tutorial-zh_TW/blob/master/step-02.md)
+- [Step 02 - 以元件表示資料](https://github.com/clojure-tw/reagent-phonecat-tutorial-zh_TW/blob/master/step-02.md)
 - [Step 03 - 使用者輸入與狀態](https://github.com/clojure-tw/reagent-phonecat-tutorial-zh_TW/blob/master/step-03.md)
 - [Step 04 - Reagent cursors](https://github.com/clojure-tw/reagent-phonecat-tutorial-zh_TW/blob/master/step-04.md)
 - [Step 05 - 和伺服器進行溝通](https://github.com/clojure-tw/reagent-phonecat-tutorial-zh_TW/blob/master/step-05.md)
